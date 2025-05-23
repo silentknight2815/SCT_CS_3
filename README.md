@@ -47,7 +47,6 @@ Copy
 Edit
 ==========================================
   Welcome to Password Strength Checker 🔐
-       Created by: Cyber Expert 💻🛡️
 ==========================================
 
 Enter your password to check strength: MyPass123!
