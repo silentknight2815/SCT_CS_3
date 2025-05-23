@@ -30,7 +30,6 @@ def check_password_strength(password):
 # Welcome Message
 print("==========================================")
 print("  Welcome to Password Strength Checker 🔐")
-print("       Created by: Cyber Expert 💻🛡️")
 print("==========================================\n")
 
 # User input
